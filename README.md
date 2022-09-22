@@ -2,5 +2,5 @@
 
 
 
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=1pdinesh&theme=algolia&show_icons=true)
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=1pdinesh&theme=algolia&show_icons=true&count_private=true)
 
